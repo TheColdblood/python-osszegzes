@@ -1,4 +1,4 @@
-
+#megszamlalas
 def ketjegyuparos():
     db = 0
 
@@ -8,7 +8,7 @@ def ketjegyuparos():
     print(db)
 
 
-
+#minimum kiválasztás
 def nullaig():
     VEGE = 0
     db = 0
